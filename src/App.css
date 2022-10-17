@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(64, 115, 226);
+    overflow: hidden;
+}
+.App{
+    width: 300px;
+    padding: 10px;
+}
+button{
+    cursor: pointer;
+}
+input[type="checkbox"]{
+    cursor: pointer;
+}
